@@ -15,3 +15,7 @@ Para tanto foram utilizadas as bibliotecas:
  2. matplotlib;
  3. networkx;
  4. numpy.
+
+Uma versão deste pode ser encontrada também no Google Colab, no entanto esse não conta com a interface (por limitações de sua natureza), e sim com entradas pelo teclado. 
+
+Link para acesso: https://colab.research.google.com/drive/1v0w2zKuN9SUrTO8s5EsSw0MX-CqSTMei?usp=sharing
